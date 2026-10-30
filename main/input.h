@@ -6,7 +6,7 @@
 //   d-pad / joystick  ButLeft, ButRight, ButUp, ButDown
 //   A                 ButA     select, confirm
 //   B                 ButB     back
-//   MENU              ButBack  quit to the menu, quit the game (Escape, the controller's back)
+//   MENU              ButBack  quit to the title screen (Escape, the controller's back)
 //   L1 / R1           ButVolDown, ButVolUp
 //   C                 ButNextSkin
 //   D                 ButNextMusic

@@ -6,7 +6,7 @@
 // the keyboard and game controller are input.*, and the files live in the ZNAX folder on the
 // SD card. CGame's states are a file each, its other members are in gamefuncs.*.
 //
-// Keys: d-pad or joystick, A select, B back, MENU quit to the menu (on the title screen: quit),
+// Keys: d-pad or joystick, A select, B back, MENU quit to the title screen,
 // L1/R1 the volume, C the next skin, D the next music.
 
 #include <stdlib.h>

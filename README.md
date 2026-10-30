@@ -19,7 +19,7 @@ time runs out.
 | D-pad / joystick | move in the menus, move the cursor |
 | A | select a menu option, select a block |
 | B | back, quit the game to the title screen |
-| MENU | quit to the title screen; on the title screen: quit |
+| MENU | quit to the title screen |
 | L1 / R1 | volume down / up |
 | C | next skin |
 | D | next music track |
@@ -27,7 +27,8 @@ time runs out.
 Entering a high score name: up and down change the letter, left and right move between
 letters, A confirms and MENU cancels. To erase a letter choose the space.
 
-**Quit** in the main menu goes back to the launcher; RUN switches the AKA off as in every game.
+**Quit** in the main menu, or **RUN + MENU** held for half a second anywhere in the game, goes back
+to the launcher; RUN on its own switches the AKA off as in every game.
 
 ## Installing
 

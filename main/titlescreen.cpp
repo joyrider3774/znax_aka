@@ -37,9 +37,6 @@ void TitleScreen() {
     if (ButVolUp)
       IncVolume();
 
-    if (ButBack)
-      QuitGame();
-
     if (ButUp)
       Menu->PreviousItem();
 
